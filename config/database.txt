@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://training:LocalDb%219x2R7m4@db.invalid:5432/training
